@@ -9,6 +9,7 @@ Raster-BoundingBox-GeoJSON is a Python project designed to convert raster boundi
 Bongjae Kwon  
 Civil and Environmental Engineering GIS/LBS Lab  
 Seoul National University
+
 bongjae.kwon@snu.ac.kr
 
 ## Features
